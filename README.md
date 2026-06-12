@@ -1,6 +1,6 @@
-# Hi, I'm V. Ashwith 🔐
-# Cybersecurity Student | CTF Player | Security Researcher | Builder of Real-World Security Solutions 🚀
-🔭 Working on cybersecurity and networking projects<br><br>🌱 Exploring web security, CTFs, and real-world security concepts<br><br>👯 Open to collaborating on security projects, internships, and learning opportunities<br><br>⚡ Interested in understanding how systems work, break, and can be secured
+# Hi, I'm V. Ashwith 
+# Cybersecurity Student | CTF Player | Security Researcher | Builder of Real-World Security Solutions 
+🔭 Working on cybersecurity and networking projects<br><br>  Exploring web security, CTFs, and real-world security concepts<br><br>👯 Open to collaborating on security projects, internships, and learning opportunities<br><br>  Interested in understanding how systems work, break, and can be secured
 
 
 ## 🌐 Socials:
